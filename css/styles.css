@@ -1,4 +1,4 @@
-body { background:url(../_img/background.jpg) repeat; font-family:'Anivers', sans-serif; color:#fff; }
+body { background:url(../img/background.jpg) repeat; font-family:'Anivers', sans-serif; color:#fff; }
 h1 { text-align:center; margin:40px 0 50px 0; }
 .content { width:750px; margin:0 auto; }
 #logotype { width:252px; height:	105px; padding-right:40px; border-right:5px solid #fff; float:left; }
@@ -7,8 +7,8 @@ h1 { text-align:center; margin:40px 0 50px 0; }
 #contacts p a{ background: #fff; padding:4px; color:#E10230; font-size:19px; text-decoration:none; }
 .space { clear:both; height:1px; width:100%; }
 #social { display:block; height:52px; width:480px; clear:both; margin:50px auto 0 auto; }
-#facebook-bt { background:url(../_img/facebook-bt.png) no-repeat; width:212px; height:52px; display:block; }
-#twitter-bt { background:url(../_img/twitter-bt.png) no-repeat; width:212px; height:52px; display:block; float:right; }
+#facebook-bt { background:url(../img/facebook-bt.png) no-repeat; width:212px; height:52px; display:block; }
+#twitter-bt { background:url(../img/twitter-bt.png) no-repeat; width:212px; height:52px; display:block; float:right; }
 
 
 /***********************************
