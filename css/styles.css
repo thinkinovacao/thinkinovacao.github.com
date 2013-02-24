@@ -7,7 +7,7 @@ h1 { text-align:center; margin:40px 0 50px 0; }
 #contacts p a{ background: #fff; padding:4px; color:#E10230; font-size:19px; text-decoration:none; }
 .space { clear:both; height:1px; width:100%; }
 #social { display:block; height:52px; width:480px; clear:both; margin:50px auto 0 auto; }
-#facebook-bt { background:url(../img/facebook-bt.png) no-repeat; width:212px; height:52px; display:block; }
+#facebook-bt { background:url(../img/facebook-bt.png) no-repeat; width:212px; height:52px; display:block; float:left; }
 #twitter-bt { background:url(../img/twitter-bt.png) no-repeat; width:212px; height:52px; display:block; float:right; }
 
 
