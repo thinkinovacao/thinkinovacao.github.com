@@ -2,7 +2,7 @@ body { background:url(../img/background.jpg) repeat; font-family:'Anivers', sans
 h1 { text-align:center; margin:40px 0 50px 0; }
 .content { width:750px; margin:0 auto; }
 #logotype { width:252px; height:105px; padding-right:40px; border-right:5px solid #fff; float:left}
-#contacts {margin-left:20px;}
+#contacts {margin: 5px 0 0 325px;}
 #contacts p { font-size:22px; font-weight:bold; margin:9px 0 0; line-height:29px;}
 #contacts p a{ background: #fff; padding:4px; color:#E10230; font-size:19px; text-decoration:none; }
 .space { clear:both; height:1px; width:100%; }
